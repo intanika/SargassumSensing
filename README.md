@@ -18,7 +18,7 @@ Research questions/ objectives:
 * Contains all Python scripts used in the Jupyter Notebooks
 	
 <b>data</b>  
-*  Notebook to download and preprocess Sentinel-2
+*  Contains all data and models used for analyses in Jupyter Notebook
 
 <b>[00_download_preprocess_sentinel2.ipynb](https://github.com/octo-willy/Sargassum-Sensing/blob/master/00_download_preprocess_sentinel2.ipynb "00_download_preprocess_sentinel2.ipynb")</b>  
 *  Notebook for downloading and pre-processing Sentinel-2 images	
