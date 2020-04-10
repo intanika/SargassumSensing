@@ -1,10 +1,6 @@
 # Mapping Sargassum on beach and coastal waters of Bonaire with Sentinel-2 imagery  - Master thesis
 
 <p align="center">
-  <img width="800" src="figures/sargassum_20180304.png">
-</p>
-
-<p align="center">
   <img width="800" src="figures/sargassum_hycom.gif">
 </p>
 
@@ -18,26 +14,26 @@ Research questions/ objectives:
 
 ## Repository content
 
-<b>Python</b>
-	* Contains all Python scripts used in the Jupyter Notebooks
+<b>Python</b>  
+* Contains all Python scripts used in the Jupyter Notebooks
 	
-<b>data</b>
-	*  Notebook to download and preprocess Sentinel-2
+<b>data</b>  
+*  Notebook to download and preprocess Sentinel-2
 
-<b>[00_download_preprocess_sentinel2.ipynb](https://github.com/octo-willy/Sargassum-Sensing/blob/master/00_download_preprocess_sentinel2.ipynb "00_download_preprocess_sentinel2.ipynb")</b>
-	*  Notebook for downloading and pre-processing Sentinel-2 images	
+<b>[00_download_preprocess_sentinel2.ipynb](https://github.com/octo-willy/Sargassum-Sensing/blob/master/00_download_preprocess_sentinel2.ipynb "00_download_preprocess_sentinel2.ipynb")</b>  
+*  Notebook for downloading and pre-processing Sentinel-2 images	
 
-<b>[01_sargassum_detection_coast.ipynb](https://github.com/octo-willy/Sargassum-Sensing/blob/master/01_sargassum_detection_coast.ipynb "01_sargassum_detection_coast.ipynb")</b>
-	*  Notebook pertains to RQ 1
+<b>[01_sargassum_detection_coast.ipynb](https://github.com/octo-willy/Sargassum-Sensing/blob/master/01_sargassum_detection_coast.ipynb "01_sargassum_detection_coast.ipynb")</b>  
+*  Notebook pertains to RQ 1
 	
-<b>[02_sargassum_detection_sea.ipynb](https://github.com/octo-willy/Sargassum-Sensing/blob/master/02_sargassum_detection_sea.ipynb "02_sargassum_detection_sea.ipynb")</b>
-	*  Notebook pertains to RQ 2
+<b>[02_sargassum_detection_sea.ipynb](https://github.com/octo-willy/Sargassum-Sensing/blob/master/02_sargassum_detection_sea.ipynb "02_sargassum_detection_sea.ipynb")</b>  
+*  Notebook pertains to RQ 2
 
-<b>[03_seagrass_distribution_lacbay.ipynb](https://github.com/octo-willy/Sargassum-Sensing/blob/master/03_seagrass_distribution_lacbay.ipynb "03_seagrass_distribution_lacbay.ipynb")</b>
-	*  Notebook pertains to RQ 3
+<b>[03_seagrass_distribution_lacbay.ipynb](https://github.com/octo-willy/Sargassum-Sensing/blob/master/03_seagrass_distribution_lacbay.ipynb "03_seagrass_distribution_lacbay.ipynb")</b>  
+*  Notebook pertains to RQ 3
 
-<b>[xx_sargassum_sensing_demo.ipynb](https://github.com/octo-willy/Sargassum-Sensing/blob/master/xx_sargassum_sensing_demo.ipynb "xx_sargassum_sensing_demo.ipynb")</b>
-	*  Notebook demonstrating Sargassum detection and forecasting in open sea
+<b>[xx_sargassum_sensing_demo.ipynb](https://github.com/octo-willy/Sargassum-Sensing/blob/master/xx_sargassum_sensing_demo.ipynb "xx_sargassum_sensing_demo.ipynb")</b>  
+*  Notebook demonstrating Sargassum detection and forecasting in open sea
 
 ## Instructions
     
